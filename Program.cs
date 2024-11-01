@@ -9,6 +9,8 @@ using DesignPatterns.CreationalPatterns.AbstractFactory.Example1;
 //new DesignPatterns.CreationalPatterns.AbstractFactory.Example1.Client().Main();
 
 //Creational patterns->BuilderPattern->Example2
-new DesignPatterns.CreationalPatterns.BuilderPattern.Example2.Client().Main();
+//new DesignPatterns.CreationalPatterns.BuilderPattern.Example2.Client().Main();
 
+//Creational patterns->SingletonPattern->Example1
+new DesignPatterns.CreationalPatterns.SingletonPattern.Example1.Client().Main();
 

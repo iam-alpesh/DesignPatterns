@@ -11,6 +11,7 @@ namespace DesignPatterns.CreationalPatterns.AbstractFactory.Example1
         public void Open()
         {
             Console.WriteLine("Opening MySQL connection.");
+
         }
 
         public void Close()

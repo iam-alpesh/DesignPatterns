@@ -24,6 +24,12 @@ namespace DesignPatterns.CreationalPatterns.AbstractFactory.Example1
             {
                 Console.WriteLine(ex.Message);
             }
+
+        }
+        public static void Hello()
+        {
+            Console.WriteLine("Hello");
+
         }
     }
 }
